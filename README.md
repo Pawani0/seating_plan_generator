@@ -208,8 +208,8 @@ The sample file demonstrates the required column structure:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/seating-plan-generator.git
-   cd seating-plan-generator
+   git clone https://github.com/Pawani0/seating_plan_generator.git
+   cd seating_plan_generator
    ```
 
 2. **Download required libraries** and place in `lib/` folder:
@@ -425,10 +425,10 @@ It ensures no two adjacent students (left/right/front/back) are from the same br
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Rishabh Pawani**
 
-[![GitHub](https://img.shields.io/badge/GitHub-@yourusername-181717?style=flat&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourname-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourname)
+[![GitHub](https://img.shields.io/badge/GitHub-@Pawani0-181717?style=flat&logo=github)](https://github.com/Pawani0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishabh_Pawani-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rishabh-pawani-676120284/)
 
 ---
 

@@ -1,0 +1,21 @@
+# Compiled classes
+out/
+target/
+
+# Build artifacts
+package/
+dist/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

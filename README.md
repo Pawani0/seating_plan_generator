@@ -163,7 +163,7 @@ Download the installer and run it - **no Java installation required!**
 
 | Platform | Download | Size |
 |----------|----------|------|
-| Windows | [**SeatingPlanGenerator-1.0.0.exe**](SeatingPlanGenerator-1.0.0.exe) | ~117 MB |
+| Windows | [**SeatingPlanGenerator-1.0.0.exe**](https://github.com/Pawani0/seating_plan_generator/releases/download/v1.0.0/SeatingPlanGenerator-1.0.0.exe) | ~117 MB |
 
 > **Note:** The installer bundles the Java runtime, so recipients don't need Java installed on their system.
 
